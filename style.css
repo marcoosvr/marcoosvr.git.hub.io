@@ -1,0 +1,30 @@
+ p {
+      color: rgb(252, 252, 252);
+      font-size: 80px;
+ }
+ .foto {
+    -webkit-box-shadow: 35px 0px 35px 0px rgba(0, 0, 50, 0.97);
+    -moz-box-shadow: 35px 0px 35px 0px rgba(0, 0, 50, 0.97);
+    box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+    float: center;
+    width: 180px;
+ }
+ h1 {
+    color: rgb(228, 243, 17);
+    font-family: Georgia;
+    font-size: 40px;
+    text-align: center;
+ } 
+ h2 {
+   color: rgb(228, 243, 17);
+   font-family: Georgia;
+   font-size: 20px;
+   text-align: center;
+
+ }
+ 
+ body {
+   background: url("foguete.jpg") no-repeat;
+   width:100%;
+   height:auto;
+ }
