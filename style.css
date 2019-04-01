@@ -25,9 +25,15 @@
    font-family: Georgia;
    font-size: 28px;
    text-align: center;
-
  }
  
+ h3 {
+   font-size: 15px;
+   color: rgb(228, 243, 17);
+   font-family: Georgia;
+   text-align: center;
+ }
+
  body {
    background: url("foguete.jpg") no-repeat;
    width: 960px;
@@ -37,6 +43,9 @@
  .icon {
   width: 70px;
   height: 70px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
  }
  .container {
    display: table;
